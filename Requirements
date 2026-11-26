@@ -1,0 +1,13 @@
+pandas>=2.2
+numpy>=2.1
+requests>=2.32
+deep-translator>=1.11
+geopy>=2.4
+geopandas>=1.0
+shapely>=2.0
+
+# للربط مع Supabase / PostgreSQL (هنحتاجهم في خطوة load)
+supabase>=2.0
+psycopg2-binary>=2.9
+SQLAlchemy>=2.0
+python-dotenv>=1.0
